@@ -1,12 +1,12 @@
 {
   "name": "discordjs-allintents-v14",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "``` npm i djs-v14-allintents ``` ## Usage ```js const {     Client } = require(\"discord.js\") const client = new Client(require(\"djs-v14-allintents\")) ```",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": [],
+  "keywords": ["discord.js", "discordjs", "v14", "intents", "allintents"],
   "author": "tonnatorn <npm.tonnatorn@gmail.com> (https://qiita.com/tonnatorn)",
   "license": "ISC",
   "dependencies": {
